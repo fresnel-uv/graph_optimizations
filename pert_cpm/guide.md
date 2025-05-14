@@ -14,7 +14,7 @@ This tool helps with project scheduling using **Critical Path Method (CPM)** and
 
 ## Example CSV Format
 
-### For **CPM**:
+### For **CPM** and **PERT**:
 ```csv
 Task,Predecessors,Duration
 A,-,5
