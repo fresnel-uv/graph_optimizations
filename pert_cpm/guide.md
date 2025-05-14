@@ -21,3 +21,8 @@ A,-,5
 B,A,3
 C,A,6
 ...
+Task,Predecessors,Optimistic,MostLikely,Pessimistic
+A,-,4,5,6
+B,A,2,3,4
+C,A,5,6,7
+...
